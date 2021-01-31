@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">1094_SelisteValeriaCorina</string>
+    <string name="name">Name</string>
+    <string name="sum">sum</string>
+    <string name="notdone">NotDone</string>
+    <string name="done">Done</string>
+    <string name="add_object">Add object</string>
+    <string name="save">Save</string>
+
+    <string-array name="spinnerarrey">
+        <item>facturi</item>
+        <item>jocuri</item>
+        <item>cumparaturi</item>
+    </string-array>
+</resources>
